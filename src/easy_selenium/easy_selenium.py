@@ -3,7 +3,7 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 import re
 
-class EasySelenium():
+class ElementFinder():
     
     def __init__(self, driver): 
         self.driver = driver

@@ -27,7 +27,7 @@ setup(
     package_dir={"": "src"},
     packages=find_packages(include=["src/easy_selenium", "src/easy_selenium.*"]),
     setup_requires=[],
-    url="https://github.com/KeshevK/easy_selenium",
+    url="https://github.com/KeshevK/easy-selenium",
     version="0.1.0",
     zip_safe=False,
 )
